@@ -4,6 +4,10 @@
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
+Modified by Alex Jantunen to use stateless components and ES6 where possible and reasonable.
+
+Work In Progress. Will use spring-data-neo4j Rest backend for cineast (movies) app UI
+
 ## To use
 
 There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:
